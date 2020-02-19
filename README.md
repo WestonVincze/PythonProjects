@@ -1,2 +1,2 @@
 # PythonProjects
-Various python challenges and solutions
+Various Python challenges and their solutions
