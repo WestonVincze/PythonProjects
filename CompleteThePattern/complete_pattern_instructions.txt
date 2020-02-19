@@ -1,0 +1,21 @@
+Task: You have to write a function pattern which returns the following Pattern(See Pattern & Example) up to n number of rows.
+
+Rules/Note:
+
+If n < 1 then it should return an empty string.
+
+Pattern:
+1
+22
+333
+....
+.....
+nnnnnn
+
+Example:
+pattern(5):
+1
+22
+333
+4444
+55555
